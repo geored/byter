@@ -1,0 +1,7 @@
+com/example/byter/secure/ProtectedController.class
+com/example/byter/config/ConfigTestController.class
+com/example/byter/metric/MetricController.class
+com/example/byter/health/ServiceHealthCheck.class
+com/example/byter/resilient/ResilienceController.class
+com/example/byter/HelloController.class
+com/example/byter/ByterRestApplication.class
